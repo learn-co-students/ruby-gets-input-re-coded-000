@@ -1,3 +1,4 @@
+
 ## Objectives
 
 1. Understand the significance of capturing and operating on user input in a CLI application.
@@ -21,7 +22,7 @@ It is inarguable that the advent of personal computing has changed the world and
 
 In this exercise, we'll be familiarizing ourselves with a CLI application that has already been built. To experience the user-flow of this application, first open this lab.
 
-Run `learn` 
+Run `learn`
 
 You'll need to modify the `greet` method in `lib/hello_ruby_programmer.rb` so
 that it accepts an argument called `name`.
@@ -136,7 +137,7 @@ The return value of `gets` is the text typed into the terminal. So, setting a va
 
 Once we store the return value of `gets` in a variable, we can treat that variable as we would any variable pointing to a string––interpolate with it, convert it to an integer, add it to an array, you name it.
 
-Remember to run `learn submit` so you can move on to the next lesson. 
+Remember to run `learn submit` so you can move on to the next lesson.
 
 ### Advanced: How `gets` gets input from the terminal
 
